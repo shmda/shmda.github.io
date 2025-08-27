@@ -10,6 +10,11 @@
 - <b>Data Engineering</b>
   - [Scraping Google Maps](https://github.com/shmda/web_scraping/tree/main/google_maps)
   - [Scraping Nitter](https://github.com/shmda/web_scraping/tree/main/nitter%20(%20Twitter%20alt))
+  - Scraping E-commerce (Lazada, Grabmart)
+  - Scraping Social Media (Tiktok, Twitter)
+  - Scraping Google News, Google Trends
+  - Scraping Websites (Jaya Grocer, Bites, Agrobazaar)
+  - Scraping Government Data 
 - <b>Data Analytics</b>
   - Sentiment Analytics on News Title
   - Budget Utilization Dashboard (Power BI)
