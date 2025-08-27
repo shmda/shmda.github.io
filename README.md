@@ -18,6 +18,7 @@
 - <b>Data Analytics</b>
   - Sentiment Analytics on News Title
   - Budget Utilization Dashboard (Power BI)
+  - Data Literacy Persona Assesment Dashboard (Power BI)
 - <b>Hackathons</b>
   - BuzzWave Crowd Management System – 3rd place MAP2U x USIM Hackathon  
   - AI-Based Stress Detection Website – 2nd place i-Hax 2023
